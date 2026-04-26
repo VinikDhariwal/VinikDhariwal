@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 👈 THIS IS THE FIX
+  contents: write
 
 jobs:
   build:
@@ -18,12 +18,12 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: VinikDhariwal
-          outputs: |
-            dist/pacman-contribution-graph.svg
+          outputs: dist/pacman-contribution-graph.svg
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: dist
           publish_branch: output
+          force_orphan: true   # 👈 IMPORTANT FIX
