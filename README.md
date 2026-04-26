@@ -54,14 +54,6 @@
 
 ---
 
-### 🎮 Pacman Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VinikDhariwal/VinikDhariwal/output/pacman-contribution-graph.svg" />
-</p>
-
----
-
 <table align="center" cellspacing="10">
   <tr>
     <td align="center">
