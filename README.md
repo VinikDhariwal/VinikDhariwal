@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Clean+UI+%2B+Strong+Backend;DSA+in+C%2B%2B;Building+Projects+that+Matter&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Clean+UI+%2B+Strong+Backend;DSA+in+C%2B%2B;Building+Projects+that+UpSkill&repeat=false" />
 </p>
 
 ---
