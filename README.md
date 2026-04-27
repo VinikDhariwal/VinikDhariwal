@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-⚡ Code. Debug. Build. Repeat.
+Code. Debug. Build. Repeat.
 </p>
