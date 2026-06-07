@@ -76,7 +76,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="#">
-       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+       <!-- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/> -->
       </a>
     </td>
   </tr>
