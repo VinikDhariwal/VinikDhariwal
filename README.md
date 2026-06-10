@@ -84,6 +84,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 Code. Debug. Build. Repeat.
-</p>
+</p> -->
