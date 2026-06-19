@@ -32,8 +32,11 @@
     <td><img src="https://skillicons.dev/icons?i=cpp,js" /></td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
+    <td><strong>Tools & Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/aws-lightsail.svg" height="48" />
+    </td>
   </tr>
 </table>
 
