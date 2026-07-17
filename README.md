@@ -1,4 +1,4 @@
-<h1 align="center">🐞 Creating bugs since 2024 | 🚀 Building real-world Applications </h1>
+<h1 align="center">🐞 Creating bugs since 2024 | 🚀 Building real-world Applications today</h1>
 <h3 align="center">Vinik Dhariwal — MERN Developer | C++ Problem Solver</h3>
 
 ---
