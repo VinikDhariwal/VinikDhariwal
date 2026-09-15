@@ -36,8 +36,8 @@
 
 <p align="center">  
   <img src="https://streak-stats.demolab.com?user=VinikDhariwal&theme=transparent&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=12" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinikDhariwal&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&hide=cpp" height="160"/>
-</p>
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinikDhariwal&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&hide=cpp" height="160"/>
+</p> -->
 
 ---
 
