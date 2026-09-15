@@ -1,44 +1,32 @@
-<h1 align="center">🐞 Creating bugs since 2024 | 🚀 Building real-world Applications </h1>
-<h3 align="center">Vinik Dhariwal — MERN Developer | C++ Problem Solver</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Clean+UI+%2B+Strong+Backend;DSA+in+C%2B%2B;Building+Projects+that+UpSkill&repeat=false" />
-</p>
+<h1 align="center">Vinik Dhariwal <br> MERN Stack Developer · Full Stack Development · C++</h1>
+<h3 align="center">AI + Me = 🔥 | Building Ideas into Real Products</h3>
 
 ---
 
 ### 🛠️ Tech Stack
-<table align="center">
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,js" /></td>
-  </tr>
-  <tr>
-    <td><strong>UI Libraries</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=materialui" /></td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
-  </tr>
-  <tr>
-    <td><strong>Programming</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,js" /></td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Cloud</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
-      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/aws-lightsail.svg" height="48" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,materialui,redux,nodejs,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp,git,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/aws-lightsail.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" />
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="48" />
+</p>
+
+---
+
+### 🤖 AI + Me
+<p align="center">
+  <strong>AI gives me the leverage. I bring the ideas, logic, and execution. 🔥</strong>
+</p>
+
+<p align="center">
+  Building, experimenting, debugging, and turning ideas into real-world applications.
+</p>
 
 ---
 
@@ -64,21 +52,24 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <a href="mailto:YOUR_EMAIL@gmail.com">
+      <a href="mailto:vinikdhariwal13@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
+
     <td align="center">
       <a href="https://www.linkedin.com/in/vinikdhariwal/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <a href="#">
+      <a href="https://archivex.pages.dev/">
        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
@@ -88,5 +79,5 @@
 ---
 
 <p align="center">
-Code. Debug. Build. Repeat.
+Code. Design. AI. Build. Repeat.
 </p>
