@@ -1,4 +1,4 @@
-<h1 align="center">Vinik Dhariwal <br> MERN Stack Developer · Full Stack Development · C++</h1>
+<h1 align="center">Vinik Dhariwal <br> MERN Stack Developer · Full Stack Development · C++ </h1>
 <h3 align="center">AI + Me = 🔥 | Building Ideas into Real Products</h3>
 
 ---
